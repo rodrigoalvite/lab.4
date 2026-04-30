@@ -27,6 +27,7 @@ public class App {
         ordenes.agregarProducto(producto8);
         ordenes.agregarProducto(producto9);
         ordenes.agregarProducto(producto10); 
+        //muestra todos los productos cargados
         ordenes.mostrarOrden();
         
     
